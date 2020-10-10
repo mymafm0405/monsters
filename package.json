@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
-    "homepage": "https://mymafm0405.github.io/monster-rolodex"
+    "homepage": "https://mymafm0405.github.io/monsters"
   },
   "scripts": {
     "start": "react-scripts start",
